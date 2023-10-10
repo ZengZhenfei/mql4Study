@@ -1,0 +1,33 @@
+0	16:07:18.856	Script testScript XAUUSD,M5: loaded successfully
+0	16:07:18.868	testScript XAUUSD,M5: initialized
+0	16:07:18.868	testScript XAUUSD,M5: uninit reason 0
+0	16:07:18.869	Script testScript XAUUSD,M5: removed
+0	16:09:23.570	Script testScript XAUUSD,H1: loaded successfully
+0	16:09:23.585	testScript XAUUSD,H1: initialized
+0	16:09:23.586	testScript XAUUSD,H1: uninit reason 0
+0	16:09:23.604	Script testScript XAUUSD,H1: removed
+0	16:09:38.615	Script testScript XAUUSD,M5: loaded successfully
+0	16:09:38.626	testScript XAUUSD,M5: initialized
+0	16:09:38.626	testScript XAUUSD,M5: uninit reason 0
+0	16:09:38.627	Script testScript XAUUSD,M5: removed
+0	16:28:08.337	Custom indicator MACD XAUUSD,M5: loaded successfully
+0	16:28:23.278	MACD XAUUSD,M5: initialized
+0	16:30:39.150	Custom indicator ZigZag XAUUSD,M5: loaded successfully
+0	16:30:40.495	ZigZag XAUUSD,M5: initialized
+0	16:31:37.169	ZigZag XAUUSD,M5: uninit reason 3
+0	16:31:37.169	MACD XAUUSD,M5: uninit reason 3
+0	16:31:37.174	ZigZag XAUUSD,H1: initialized
+0	16:31:37.174	MACD XAUUSD,H1: initialized
+0	16:31:55.869	MACD XAUUSD,H1: uninit reason 1
+0	16:31:55.870	Custom indicator MACD XAUUSD,H1: removed
+0	16:56:51.626	Compiling 'testScript'
+3	16:57:04.413	cannot open file 'C:\Users\aiden\AppData\Roaming\MetaQuotes\Terminal\C419E35F6EFCAC731FACC09E5EB1D6BB\MQL4\Scripts\testScript.ex4' [2]
+0	16:57:39.118	Compiling 'testScript'
+0	16:57:42.288	Script testScript XAUUSD,H1: loaded successfully
+0	16:57:42.300	testScript XAUUSD,H1: initialized
+0	16:57:42.300	testScript XAUUSD,H1: uninit reason 0
+0	16:57:42.301	Script testScript XAUUSD,H1: removed
+0	17:05:49.001	Script testScript XAUUSD,H1: loaded successfully
+0	17:05:49.013	testScript XAUUSD,H1: initialized
+0	17:05:49.013	testScript XAUUSD,H1: uninit reason 0
+0	17:05:49.014	Script testScript XAUUSD,H1: removed
